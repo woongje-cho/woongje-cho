@@ -1,10 +1,10 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=200&section=header&text=Woongje%20Cho&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Autonomous%20Systems%20Engineer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=200&section=header&text=Woongje%20Cho&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Robotics%20AI%20%7C%20Task%20Planning&descAlignY=55&descSize=20" width="100%"/>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=50&lines=Building+Autonomous+Systems+%F0%9F%9A%97;Machine+Learning+%7C+Robotics+%7C+Sim2Real+%F0%9F%A4%96;Let's+build+the+future+together!+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=High-Level+Task+Planning+for+Robotics+%F0%9F%A4%96;Knowledge+Graphs+%2B+LLM+%2B+Planning+%F0%9F%A7%A0;Building+Intelligent+Robotic+Systems+%E2%9C%A8" alt="Typing SVG" />
   </a>
 </p>
 
@@ -27,14 +27,31 @@
   About Me
 </h2>
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Automobile.png" width="150"/>
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="150"/>
 
-- 🔭 Currently exploring **Reinforcement Learning** & **Sim2Real Transfer**
-- 🚗 Building intelligent systems that navigate the real world
-- 🤖 Passionate about **Self-Driving Cars** & **Robotics**
-- 🎯 Always open to collaboration!
+- 🧠 Researching **High-Level Task Planning** for Robotics
+- 🔗 Working with **Knowledge Graphs** & **Semantic Reasoning**
+- 🤖 Bridging **LLMs** and **Robotic Systems**
+- 🚗 Background in **Autonomous Vehicles**
+- 🎯 Open to collaboration on AI + Robotics projects!
 
 <br clear="right"/>
+
+---
+
+<!-- Research Interests -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="30"/>
+  Research Interests
+</h2>
+
+```
+🎯 Task and Motion Planning (TAMP)
+🧠 LLM-based Task Planning & Reasoning
+🔗 Knowledge Graphs & Ontologies for Robotics
+🌐 Semantic Scene Understanding
+🤖 Sim2Real Transfer
+```
 
 ---
 
@@ -49,32 +66,38 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
 </p>
 
-<h4>ML & AI</h4>
+<h4>AI & ML</h4>
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-<h4>Autonomous Systems</h4>
+<h4>Knowledge & Data</h4>
+<p>
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphDB-FF6C37?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SPARQL-0F4C81?style=for-the-badge&logo=semantic-web&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+<h4>Robotics</h4>
 <p>
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gazebo-F58220?style=for-the-badge&logo=gazebo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MoveIt-0A0A0A?style=for-the-badge&logo=robotframework&logoColor=white"/>
 </p>
 
-<h4>Tools</h4>
+<h4>Tools & Infra</h4>
 <p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
 </p>
 
 ---
@@ -96,7 +119,7 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/>
 </p>
 <p align="center">
-  <i>Thanks for visiting! Let's connect and build something amazing together.</i>
+  <i>Thanks for visiting! Let's connect and build intelligent robots together.</i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
