@@ -21,20 +21,17 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-```python
-class AutonomousEngineer:
-    def __init__(self):
-        self.name = "Woongje Cho"
-        self.role = "Autonomous Systems Engineer"
-        self.focus = ["Self-Driving Cars", "Machine Learning", "Robotics"]
-        self.currently_learning = ["Reinforcement Learning", "Sim2Real Transfer"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build the future together!")
+<div align="center">
 
-me = AutonomousEngineer()
-me.say_hi()
-```
+**Autonomous Systems Engineer**
+
+Self-Driving Cars | Machine Learning | Robotics
+
+</div>
+
+- Currently exploring **Reinforcement Learning** & **Sim2Real Transfer**
+- Building intelligent systems that navigate the real world
+- Always open to collaboration!
 
 <br/>
 
