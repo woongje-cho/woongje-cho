@@ -3,7 +3,7 @@
 
 <!-- Tagline -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖_Robotics_AI-6e40c9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤖_Physical_AI-6e40c9?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🚗_Autonomous_Driving-58A6FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🧠_Task_Planning-44A833?style=for-the-badge"/>
 </p>
