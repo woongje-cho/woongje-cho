@@ -1,11 +1,9 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Woongje%20Cho&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Robotics%20AI%20%7C%20Task%20Planning%20%7C%20Autonomous%20Systems&descAlignY=55&descSize=18" width="100%"/>
 
-<!-- Typing SVG -->
+<!-- Tagline -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=High-Level+Task+Planning+%2B+Knowledge+Graphs+%F0%9F%A7%A0;LLM-powered+Robotic+Systems+%F0%9F%A4%96;From+Autonomous+Driving+to+Intelligent+Robots+%F0%9F%9A%97%E2%9E%A1%EF%B8%8F%F0%9F%A6%BE" alt="Typing SVG" />
-  </a>
+  <b><i>Building intelligent robots with LLMs, Knowledge Graphs, and Task Planning</i></b>
 </p>
 
 <!-- Social Badges -->
