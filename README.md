@@ -3,12 +3,9 @@
 
 <!-- Tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=3000&color=58A6FF&center=true&vCenter=true&repeat=true&width=420&height=40&lines=Robotics+%7C+Autonomous+Driving+%7C+Task+Planning" alt="Tagline"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖_Robotics-6e40c9?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🧠_AI-58A6FF?style=flat-square"/>
-  <img src="https://img.shields.io/badge/🚗_Autonomous-44A833?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🤖_Robotics_AI-6e40c9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚗_Autonomous_Driving-58A6FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠_Task_Planning-44A833?style=for-the-badge"/>
 </p>
 
 <!-- Social Badges -->
