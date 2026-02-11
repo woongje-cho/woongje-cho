@@ -3,7 +3,12 @@
 
 <!-- Tagline -->
 <p align="center">
-  <b><i>Building intelligent robots with LLMs, Knowledge Graphs, and Task Planning</i></b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=3000&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Building+intelligent+robots+with+LLMs+%26+Knowledge+Graphs" alt="Tagline"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_Robotics-6e40c9?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🧠_AI-58A6FF?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🚗_Autonomous-44A833?style=flat-square"/>
 </p>
 
 <!-- Social Badges -->
