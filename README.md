@@ -101,11 +101,11 @@
 </tr>
 <tr>
 <td align="center" width="140">
-<img src="https://skillicons.dev/icons?i=neo4j" width="48"/><br/>
+<img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" height="48"/><br/>
 <sub><b>Neo4j</b></sub>
 </td>
 <td align="center" width="140">
-<img src="https://img.shields.io/badge/🦜-1C3C3C?style=flat-square" width="48" height="48"/><br/>
+<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge" height="48"/><br/>
 <sub><b>LangChain</b></sub>
 </td>
 <td align="center" width="140">
@@ -135,12 +135,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=woongje-cho&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=6e40c9&fire=6e40c9&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 </p>
 
-<!-- Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=woongje-cho&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=6e40c9&point=FFFFFF&area=true&area_color=6e40c9" width="100%"/>
+</p>
 
 ---
 
